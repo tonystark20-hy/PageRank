@@ -11,8 +11,8 @@ PageRank is a link analysis algorithm used by Google Search to rank web pages in
 * Adjustable Parameters: Configure parameters like damping factor, number of iterations, etc., to fine-tune the PageRank algorithm.
 
 ## Prerequisites
-Python installed in your environment.
-Apache Spark and PySpark set up on your local machine or a cluster.
+* Python installed in your environment.
+* Apache Spark and PySpark set up on your local machine or a cluster.
 
 ## Resources
 * [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/index.html): Official documentation for PySpark.
